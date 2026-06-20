@@ -2,14 +2,11 @@
 
 ## Project Overview
 
-This project focuses on analyzing the Netflix dataset using MySQL. The dataset was imported from Excel into a MySQL database, and SQL queries were used to answer 15 business-related questions and generate meaningful insights.
+This project analyzes Netflix content data using MySQL. The dataset was imported from Excel into MySQL, and SQL queries were used to answer 15 business questions and generate meaningful insights.
 
-## Objectives
+## Project Preview
 
-- Import Excel data into MySQL
-- Perform data analysis using SQL
-- Solve 15 business questions
-- Extract useful insights from Netflix content data
+![Netflix Analysis](screenshots/netflix_analysis.png)
 
 ## Tools Used
 
@@ -18,42 +15,27 @@ This project focuses on analyzing the Netflix dataset using MySQL. The dataset w
 - SQL
 - Microsoft Word
 
-## Files Included
+## Project Files
 
 ### Netflix_Dataset.xlsx
 Original Netflix dataset used for analysis.
 
-### Netflix_SQL_Queries.sql
-Contains all SQL queries used in the project.
-
 ### Netflix_SQL_Queries.docx
-Documentation of all 15 questions along with their SQL queries.
+Contains all 15 business questions along with the SQL queries used to solve them.
 
 ### Netflix_Project_Report.docx
 Contains query results, findings, and insights generated from the analysis.
 
-## Analysis Topics
-
-- Movies vs TV Shows Distribution
-- Content Rating Analysis
-- Country-wise Content Distribution
-- Genre Analysis
-- Year-wise Content Trends
-- Director Analysis
-- Duration Analysis
-- Additional Business Insights
-
-## Skills Demonstrated
+## Key Skills Demonstrated
 
 - Data Importing
-- Database Management
 - SQL Query Writing
 - Data Analysis
 - Data Exploration
-- Problem Solving
+- Business Insight Generation
+- Database Management
 
 ## Author
 
 Rahul Sahani
-
-BCA Student | Aspiring Data Analyst
+Aspiring Data Analyst
