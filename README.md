@@ -6,7 +6,7 @@ This project analyzes Netflix content data using MySQL. The dataset was imported
 
 ## Project Preview
 
-![Netflix Analysis](screenshots/netflix_analysis.png)
+![Netflix Analysis](ChatGPT Image Jun 20, 2026, 09_17_09 PM.png)
 
 ## Tools Used
 
